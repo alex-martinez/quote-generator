@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://myusername.github.io/quote-generator",
+  "homepage": "https://alex-martinez.github.io/quote-generator",
   "devDependencies": {
     "gh-pages": "0.12.0",
     "react-scripts": "0.2.3"
