@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://ron-swanson-quotes.herokuapp.com/v2/quotes';
+const API_URL = 'https://ron-swanson-quotes.herokuapp.com/v2/quotes';
 
 export function fetchQuote() {
   const request = axios.get(API_URL);
